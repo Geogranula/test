@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'Battle Bingo';
+  src: url('BattleBingo.woff2') format('woff2'),
+      url('BattleBingo.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+article {
+  width: 50rem;
+  margin: 0 auto;
+}
+
+section {
+  padding: 0.5rem 2rem;
+}
+
+html {
+  font-family: "Lato", Arial, sans-serif;
+  font-size: 19px;
+}
+
+body {
+  background-color: #FFFFFF;
+}
+
+h1,h2 {
+  background-color: #D2D6EF;
+  font-weight: 900;
+}
+
+section {
+  padding: 0.5rem 2rem;
+}
+
+h1 {
+  font-family: "Battle Bingo";
+  font-size: 240%;
+  text-align: center;
+}
+
+h2 {
+  font-size: 180%;
+}
+
+p {
+  color: #555555;
+  line-height: 150%;
+  text-align: justify;
+}
+
+strong {
+  color: black;
+}
+
+a {
+  color: #6290C3;
+}
+
+em {
+  background-color: #D2D6EF;
+  font-style: normal;
+}
+
+.intro,.conclusion {
+  background-color: #D2D6EF;
+}
